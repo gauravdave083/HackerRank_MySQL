@@ -15,13 +15,16 @@ By Gaurav Dave
 9. [Weather Observation Station 4](#weather-observation-station-4)
 10. [Weather Observation Station 5](#weather-observation-station-5)
 
+<br/>
 ## Revising the Select Query I
 **Problem**: Query all columns for all American cities in the CITY table with populations larger than 100000.
 
+<br/>
 
 ## Revising the Select Query II
 **Problem**: Query the NAME field for all American cities in the CITY table with populations larger than 120000.
 
+<br/>
 
 ## Select All
 **Problem**: Query all columns (attributes) for every row in the CITY table.
