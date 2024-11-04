@@ -16,6 +16,7 @@ By Gaurav Dave
 10. [Weather Observation Station 5](#weather-observation-station-5)
 
 <br/>
+
 ## Revising the Select Query I
 **Problem**: Query all columns for all American cities in the CITY table with populations larger than 100000.
 
@@ -29,34 +30,42 @@ By Gaurav Dave
 ## Select All
 **Problem**: Query all columns (attributes) for every row in the CITY table.
 
+<br/>
 
 ## Select By ID
 **Problem**: Query all columns for a city in CITY with the ID 1661.
 
+<br/>
 
 ## Japanese Cities' Attributes
 **Problem**: Query all attributes of every Japanese city in the CITY table.
 
+<br/>
 
 ## Japanese Cities' Names
 **Problem**: Query the names of all the Japanese cities in the CITY table.
 
+<br/>
 
 ## Weather Observation Station 1
 **Problem**: Query a list of CITY and STATE from the STATION table.
 
+<br/>
 
 ## Weather Observation Station 3
 **Problem**: Query a list of CITY names from STATION for cities that have an even ID number.
 
+<br/>
 
 ## Weather Observation Station 4
 **Problem**: Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
 
+<br/>
 
 ## Weather Observation Station 5
 **Problem**: Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths.
 
+<br/>
 
 ## Best Practices for SELECT Queries
 1. Always be specific about which columns you need instead of using `SELECT *`
