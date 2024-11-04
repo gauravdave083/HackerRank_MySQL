@@ -1,7 +1,6 @@
 # HackerRank_MySQL
 
-## HackerRank SQL Solutions: Basic SELECT Queries
-By Gaurav Dave
+## HackerRank SQL Solutions: Basic SELECT Queries **By Gaurav Dave**
 
 ## Table of Contents
 1. [Revising the Select Query I](#revising-the-select-query-i)
