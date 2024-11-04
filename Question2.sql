@@ -2,7 +2,7 @@
 
 Revising the SQL query 2:
 
-Query the NAME field for all American cities in the CITY table with populations larger than 120000. The CountryCode for America is USA.
+Question: Query the NAME field for all American cities in the CITY table with populations larger than 120000. The CountryCode for America is USA.
 
 Database schema for a table named CITY. It has the following columns:
 

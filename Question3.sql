@@ -2,7 +2,7 @@
 
 SELECT ALL:
 
-Query all columns (attributes) for every row in the CITY table.
+Question: Query all columns (attributes) for every row in the CITY table.
 
 Database schema for a table named CITY. It has the following columns:
 
